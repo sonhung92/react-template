@@ -1,0 +1,146 @@
+{
+  "general": {
+    "modal": "Hộp thoại",
+    "cancel": "Hủy bỏ",
+    "save": "Lưu",
+    "ok": "OK",
+    "search": "Tìm kiếm",
+    "disabled": "Đã tắt",
+    "loading": "Đang tải",
+    "no": "Từ chối",
+    "yes": "Đồng ý",
+    "required": "Bắt buộc",
+    "submit": "Gửi"
+  },
+  "apiError": {
+    "NetworkError": "Lỗi mạng",
+    "BadRequest": "Yêu cầu không hợp lệ",
+    "SessionExpired": "Phiên làm việc hết hạn",
+    "Forbidden": "Yêu cầu bị từ chối",
+    "NotFound": "Yêu cầu không được tìm thấy",
+    "MethodNotAllow": "Phương thức yêu cầu không hợp lệ",
+    "ServerError": "Lỗi máy chủ API. Vui lòng thử lại!"
+  },
+  "header": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất"
+  },
+  "sidebar": {
+    "baseComponent": "Thành phần căn bản",
+    "form": "Mẫu",
+    "icons": "Biểu tượng",
+    "date": "Ngày tháng",
+    "error": "Lỗi",
+    "table": "Bảng",
+    "chart": "Biểu đồ",
+    "modal": "Hộp thoại"
+  },
+  "home": {
+    "welcome": "CHÀO MỪNG ĐẾN THÀNH CÔNG TEMPLATE!"
+  },
+  "semantic": {
+    "size": {
+      "mini": "Siêu nhỏ",
+      "tiny": "Nhỏ bé",
+      "small": "Nhỏ",
+      "medium": "Vừa",
+      "large": "Lớn",
+      "big": "Rất lớn",
+      "huge": "Khổng lồ",
+      "massive": "Siêu to",
+      "fullscreen": "Đầy màn hình"
+    },
+    "button": {
+      "title": "Nút",
+      "simple": "Đơn giản",
+      "primary": "Căn bản",
+      "outline": "Vẽ phác",
+      "registerMember": "Đăng ký thành viên",
+      "aMonth": "một tháng",
+      "like": "Thích",
+      "fork": "Nhánh",
+      "inverted": "Đảo ngược",
+      "one": "Một",
+      "two": "Hai",
+      "three": "Ba"
+    },
+    "modal": {
+      "header": "Xóa tài khoản của bạn",
+      "content": "Bạn có chắc bạn muốn xóa tài khoản ?"
+    },
+    "select": {
+      "title": "Chọn",
+      "placeholder": "Chọn thành phố của bạn"
+    },
+    "input": {
+      "title": "Nhập",
+      "searchUsers": "Tìm người dùng",
+      "chooseLanguage": "Chọn ngôn ngữ",
+      "english": "Tiếng anh",
+      "vietnamese": "Việt nam"
+    },
+    "checkbox": {
+      "title": "Đánh dấu",
+      "makeProfile": "Hiển thị hồ sơ của tôi",
+      "radioChoice": "Lựa chọn"
+    },
+    "confirm": {
+      "title": "Xác nhận",
+      "result": "Kết quả",
+      "capture": "Hiển thị hộp thoại để nắm bắt một kết quả",
+      "confirmed": "Đã xác nhận",
+      "cancelled": "Đã hủy",
+      "show": "Hiển thị"
+    }
+  },
+  "form": {
+    "fullName": "Tên đầy đủ",
+    "description": "Mô tả",
+    "born": "Nơi sinh",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "feMale": "Nữ",
+    "showInformation": "Hiển thị thông tin của tôi",
+    "firstName": "Họ",
+    "lastName": "Tên",
+    "country": "Thành phố",
+    "languages": "Ngôn ngữ",
+    "vietnamese": "Tiếng Việt",
+    "english": "Tiếng Anh",
+    "terms": "Tôi đồng ý với các Điều khoản và Điều kiện"
+  },
+  "login": {
+    "title": "Đăng nhập tới tài khoản của bạn",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "submitText": "Đăng nhập",
+    "forgetPassword": "Quên mật khẩu",
+    "newToUs": "Chưa có tài khoản?",
+    "signUp": "Đăng ký"
+  },
+  "date": {
+    "startOfDate": "Đầu ngày",
+    "endOfDate": "Cuối ngày",
+    "clientTime": "Thời gian khách hàng",
+    "dateFormatByCountry": "Định dạng ngày theo quốc gia",
+    "dateTimeFormat": "Định dạng ngày",
+    "addTwoDays": "Thêm 2 ngày",
+    "subTwoDay": "Trừ 2 ngày",
+    "diffNow": "Chênh lệch với ngày hiện tại"
+  },
+  "error": {
+    "fetch": "Gọi đến {{code}}"
+  },
+  "table": {
+    "firstName": "Tên",
+    "lastName": "Họ"
+  },
+  "chart": {
+    "line": "Dòng",
+    "bar": "Gạch",
+    "radar": "Ra đa",
+    "pie": "Miếng",
+    "polarArea": "Vùng cực",
+    "bubble": "Bọt nước"
+  }
+}

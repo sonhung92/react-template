@@ -1,0 +1,146 @@
+{
+  "general": {
+    "modal": "Modal",
+    "cancel": "Cancel",
+    "save": "Save",
+    "ok": "OK",
+    "search": "Search",
+    "disabled": "Disabled",
+    "loading": "Loading",
+    "no": "No",
+    "yes": "Yes",
+    "required": "Required",
+    "submit": "Submit"
+  },
+  "apiError": {
+    "NetworkError": "Network Error",
+    "BadRequest": "Bad Request",
+    "SessionExpired": "Session Expired",
+    "Forbidden": "The request forbidden",
+    "NotFound": "The request not found",
+    "MethodNotAllow": "Method request not allowed",
+    "ServerError": "API Server error. Please try again!"
+  },
+  "header": {
+    "login": "Login",
+    "logout": "Log out"
+  },
+  "sidebar": {
+    "baseComponent": "Base component",
+    "form": "Form",
+    "icons": "Icons",
+    "date": "Date",
+    "error": "Error",
+    "table": "Table",
+    "chart": "Chart",
+    "modal": "Modal"
+  },
+  "home": {
+    "welcome": "WELCOME TO SUCCESS TEMPLATE!"
+  },
+  "semantic": {
+    "size": {
+      "mini": "Mini",
+      "tiny": "Tiny",
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large",
+      "big": "Big",
+      "huge": "Huge",
+      "massive": "Massive",
+      "fullscreen": "Fullscreen"
+    },
+    "button": {
+      "title": "Button",
+      "simple": "Simple",
+      "primary": "Primary",
+      "outline": "Out line",
+      "registerMember": "Register member",
+      "aMonth": "a month",
+      "like": "Like",
+      "fork": "Fork",
+      "inverted": "Inverted",
+      "one": "One",
+      "two": "Two",
+      "three": "Three"
+    },
+    "modal": {
+      "header": "Delete Your Account",
+      "content": "Are you sure you want to delete your account"
+    },
+    "select": {
+      "title": "Select",
+      "placeholder": "Select your country"
+    },
+    "input": {
+      "title": "Input",
+      "searchUsers": "Search users",
+      "chooseLanguage": "Choose language",
+      "english": "English",
+      "vietnamese": "Vietnamese"
+    },
+    "checkbox": {
+      "title": "Checkbox",
+      "makeProfile": "Make my profle visible",
+      "radioChoice": "Lựa chọn"
+    },
+    "confirm": {
+      "title": "Confirm",
+      "result": "Result",
+      "capture": "Show the modal to capture a result",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "show": "Show"
+    }
+  },
+  "form": {
+    "fullName": "Full Name",
+    "description": "Description",
+    "born": "Born",
+    "gender": "Gender",
+    "male": "Male",
+    "feMale": "Female",
+    "showInformation": "Show my information",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "country": "Country",
+    "languages": "Languages",
+    "vietnamese": "Vietnamese",
+    "english": "English",
+    "terms": "I agree to the Terms and Conditions"
+  },
+  "login": {
+    "title": "Log-in to your account",
+    "email": "Email",
+    "password": "Password",
+    "submitText": "Login",
+    "forgetPassword": "Forget password",
+    "newToUs": "New to us?",
+    "signUp": "Sign Up"
+  },
+  "date": {
+    "startOfDate": "Start of date",
+    "endOfDate": "End of date",
+    "clientTime": "Client time",
+    "dateFormatByCountry": "Date format by country",
+    "dateTimeFormat": "Date time with format",
+    "addTwoDays": "Add 2 days",
+    "subTwoDay": "Sub 2 days",
+    "diffNow": "Diff now with date"
+  },
+  "error": {
+    "fetch": "Fetch {{code}}"
+  },
+  "table": {
+    "firstName": "First name",
+    "lastName": "Last name"
+  },
+  "chart": {
+    "line": "Line",
+    "bar": "Bar",
+    "radar": "Radar",
+    "pie": "Pie",
+    "polarArea": "Polar Area",
+    "bubble": "Bubble"
+  }
+}
